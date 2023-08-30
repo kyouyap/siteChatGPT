@@ -152,6 +152,14 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.env
+app/.env
+
+app/local_qdrant/
+app/poetry.lock
+
+app/tmp_text.txt
+app/documents
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

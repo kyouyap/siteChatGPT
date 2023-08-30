@@ -1,0 +1,4 @@
+OPENAI_API_KEY="sk-hogehoge"
+VERBOSE=True
+QDRANT_PATH = "./local_qdrant"
+COLLECTION_NAME = "collection"

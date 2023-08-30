@@ -1,5 +1,5 @@
 {
-    "name": "Python-dev Template",
+    "name": "SiteChat",
     "dockerComposeFile": ["../compose.yaml"],
     "service": "app",
     "workspaceFolder": "/app",
